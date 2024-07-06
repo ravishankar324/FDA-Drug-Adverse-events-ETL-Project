@@ -102,3 +102,5 @@ Once the data is loaded into Snowflake:
 > ### Checkout Tableau data visualization at [2020_Drug_adverse_events \| Tableau Public](https://public.tableau.com/app/profile/ravi.shankar.p.r/viz/2020_Drug_adverse_events/Dashboard3)
 
 > ### Checkout [how_to_run.docx](https://github.com/ravishankar324/FDA-Drug-Adverse-events-ETL-Project/blob/master/How_To_Run.docx) file for detailed steps to run this project.
+
+> ### Checkout [S3 URI.txt](https://github.com/ravishankar324/FDA-Drug-Adverse-events-ETL-Project/blob/master/S3%20URI.txt) to get URI's for raw and transformed data.
