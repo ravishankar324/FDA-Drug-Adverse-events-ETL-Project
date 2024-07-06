@@ -79,12 +79,12 @@ Create an Airflow DAG script to orchestrate the ETL process with the following t
 
 1. **Install Astro CLI**: A tool provided by Astronomer to help manage and interact with Airflow environments, allowing you to run Airflow locally in Docker containers.
 2. **Install Docker Desktop**: Update the `.wslconfig` file to use the maximum CPU and RAM possible (minimum 6 processors and 6GB RAM).
-3. **Update Airflow Configurations**: Modify the `.env` and `requirements.txt` files as shown in `how_to_run` file.
-4. **Start Docker Desktop**: Initialize the Astro environment using Astro commands in Visual Studio Code as detailed in `how_to_run` file.
+3. **Update Airflow Configurations**: Modify the `.env` and `requirements.txt` files as shown in [how_to_run.docx](https://github.com/ravishankar324/FDA-Drug-Adverse-events-ETL-Project/blob/master/How_To_Run.docx) file.
+4. **Start Docker Desktop**: Initialize the Astro environment using Astro commands in Visual Studio Code as detailed in [how_to_run.docx](https://github.com/ravishankar324/FDA-Drug-Adverse-events-ETL-Project/blob/master/How_To_Run.docx) file.
 
 ## Running the Project
 
-1. **Run Airflow in Docker**: Use Astro commands as detailed in `how_to_run` file.
+1. **Run Airflow in Docker**: Use Astro commands as detailed in [how_to_run.docx](https://github.com/ravishankar324/FDA-Drug-Adverse-events-ETL-Project/blob/master/How_To_Run.docx) file.
 2. **Access Airflow**: Navigate to [http://localhost:8080](http://localhost:8080).
 3. **Navigate to Airflow Connections**: Create HTTP, AWS, and Snowflake connections.
 4. **Trigger the Airflow DAG**.
@@ -98,6 +98,6 @@ Once the data is loaded into Snowflake:
 3. **Data Modeling in Tableau**: Create a star schema and define relationships between the cleaned data tables.
 4. **Create Visualizations**: Use Tableau Desktop to process and visualize the data.
 
-> **Checkout the visualization at** [2020_Drug_adverse_events \| Tableau Public](https://public.tableau.com/app/profile/ravi.shankar.p.r/viz/2020_Drug_adverse_events/Dashboard3)
->
-> **Checkout `how_to_run` file for detailed steps to run this project.**
+> ## Checkout the visualization at [2020_Drug_adverse_events \| Tableau Public](https://public.tableau.com/app/profile/ravi.shankar.p.r/viz/2020_Drug_adverse_events/Dashboard3)
+
+> ## Checkout [how_to_run.docx](https://github.com/ravishankar324/FDA-Drug-Adverse-events-ETL-Project/blob/master/How_To_Run.docx) file for detailed steps to run this project.**
