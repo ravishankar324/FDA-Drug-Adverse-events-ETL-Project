@@ -7,13 +7,14 @@ This project involves extracting data on drug adverse events from the [FDA's ope
 1. [Project Overview](#project-overview)
 2. [Tools and Services Used](#tools-and-services-used)
 3. [API Details](#api-details)
-4. [Data Extraction](#data-extraction)
-5. [Data Storage](#data-storage)
-6. [Data Modeling](#data-modeling)
-7. [ETL Workflow](#etl-workflow)
-8. [Setup Instructions](#setup-instructions)
-9. [Running the Project](#running-the-project)
-10. [Data Visualization with Tableau Desktop](#data-visualization-with-tableau-desktop)
+4. [Architecture Diagram](#architecture-diagram)
+5. [Data Extraction](#data-extraction)
+6. [Data Storage](#data-storage)
+7. [Data Modeling](#data-modeling)
+8. [ETL Workflow](#etl-workflow)
+9. [Setup Instructions](#setup-instructions)
+10. [Running the Project](#running-the-project)
+11. [Data Visualization with Tableau Desktop](#data-visualization-with-tableau-desktop)
 
 ## Project Overview
 
@@ -98,6 +99,8 @@ Once the data is loaded into Snowflake:
 3. **Data Modeling in Tableau**: Create a star schema and define relationships between the cleaned data tables.
 4. **Create Visualizations**: Use Tableau Desktop to process and visualize the data.
 
-> ## Checkout data visualization at [2020_Drug_adverse_events \| Tableau Public](https://public.tableau.com/app/profile/ravi.shankar.p.r/viz/2020_Drug_adverse_events/Dashboard3)
+> ### Checkout Tableau data visualization at [2020_Drug_adverse_events \| Tableau Public](https://public.tableau.com/app/profile/ravi.shankar.p.r/viz/2020_Drug_adverse_events/Dashboard3)
 
-> ## Checkout [how_to_run.docx](https://github.com/ravishankar324/FDA-Drug-Adverse-events-ETL-Project/blob/master/How_To_Run.docx) file for detailed steps to run this project.
+> ### Checkout [how_to_run.docx](https://github.com/ravishankar324/FDA-Drug-Adverse-events-ETL-Project/blob/master/How_To_Run.docx) file for detailed steps to run this project.
+
+> ### Checkout [S3 URI.txt](https://github.com/ravishankar324/FDA-Drug-Adverse-events-ETL-Project/blob/master/S3%20URI.txt) to get URI's for raw and transformed data.
