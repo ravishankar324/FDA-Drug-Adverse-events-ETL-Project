@@ -15,6 +15,7 @@ This project involves extracting data on drug adverse events from the [FDA's ope
 9. [Setup Instructions](#setup-instructions)
 10. [Running the Project](#running-the-project)
 11. [Data Visualization with Tableau Desktop](#data-visualization-with-tableau-desktop)
+12. [Contribution](#contribution)
 
 ## Project Overview
 
@@ -104,3 +105,6 @@ Once the data is loaded into Snowflake:
 > ### Checkout [how_to_run.docx](https://github.com/ravishankar324/FDA-Drug-Adverse-events-ETL-Project/blob/master/How_To_Run.docx) file for detailed steps to run this project.
 
 > ### Checkout [S3 URI.txt](https://github.com/ravishankar324/FDA-Drug-Adverse-events-ETL-Project/blob/master/S3%20URI.txt) to get URI's for raw and transformed data.
+
+## Contribution
+Contributions are welcome! Please open an issue or submit a pull request with any improvements.
