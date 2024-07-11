@@ -5,9 +5,9 @@ This project involves extracting data on drug adverse events from the [FDA's ope
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
-2. [Tools and Services Used](#tools-and-services-used)
-3. [API Details](#api-details)
-4. [Architecture Diagram](#architecture-diagram)
+2. [Architecture Diagram](#architecture-diagram)
+3. [Tools and Services Used](#tools-and-services-used)
+4. [API Details](#api-details)
 5. [Data Extraction](#data-extraction)
 6. [Data Storage](#data-storage)
 7. [Data Modeling](#data-modeling)
@@ -28,6 +28,11 @@ This project involves:
 - Orchestrating the entire ETL process using Apache Airflow.
 - Visualizing the data using Tableau Desktop.
 
+## Architecture Diagram
+
+![Architecture_diagram](https://github.com/ravishankar324/FDA-Drug-Adverse-events-ETL-Project/assets/131810013/cdad42f3-676b-43db-a2ed-2e240e5f93c9)
+
+
 ## Tools and Services Used
 
 - **Python**: For scripting and data processing.
@@ -39,10 +44,6 @@ This project involves:
 - **Visual Studio Code**: As the development environment.
 - **Tableau Desktop**: For data visualization.
 - **ODBC Snowflake Driver**: For connecting Tableau to Snowflake.
-
-## Architecture Diagram
-
-![Architecture_diagram](https://github.com/ravishankar324/FDA-Drug-Adverse-events-ETL-Project/assets/131810013/cdad42f3-676b-43db-a2ed-2e240e5f93c9)
 
 ## API Details
 
