@@ -101,6 +101,10 @@ Once the data is loaded into Snowflake:
 3. **Data Modeling in Tableau**: Create a star schema and define relationships between the cleaned data tables.
 4. **Create Visualizations**: Use Tableau Desktop to process and visualize the data.
 
+## Dashboard
+[![2020_Animation](https://github.com/user-attachments/assets/4604de80-adfe-42b6-8a63-a673257cdb1d)
+](https://public.tableau.com/app/profile/ravi.shankar.p.r/viz/youtube_data_metrics/Dashboard3)
+
 > ### Checkout Tableau data visualization at [2020_Drug_adverse_events \| Tableau Public](https://public.tableau.com/app/profile/ravi.shankar.p.r/viz/2020_Drug_adverse_events/Dashboard3)
 
 > ### Checkout [how_to_run.docx](https://github.com/ravishankar324/FDA-Drug-Adverse-events-ETL-Project/blob/master/How_To_Run.docx) file for detailed steps to run this project.
