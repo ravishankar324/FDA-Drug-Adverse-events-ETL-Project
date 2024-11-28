@@ -103,7 +103,7 @@ Once the data is loaded into Snowflake:
 
 ## Dashboard
 [![2020_Animation](https://github.com/user-attachments/assets/4604de80-adfe-42b6-8a63-a673257cdb1d)
-](https://public.tableau.com/app/profile/ravi.shankar.p.r/viz/youtube_data_metrics/Dashboard3)
+](https://public.tableau.com/app/profile/ravi.shankar.p.r/viz/2020_Drug_adverse_events/Dashboard3)
 
 > ### Checkout Tableau data visualization at [2020_Drug_adverse_events \| Tableau Public](https://public.tableau.com/app/profile/ravi.shankar.p.r/viz/2020_Drug_adverse_events/Dashboard3)
 
